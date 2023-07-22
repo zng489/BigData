@@ -12,3 +12,4 @@ Open your Git Bash or Visual Code
 8. git checkout -b dev
 8. git add .
 9. git commit -m "commit"
+10. git push origin dev
